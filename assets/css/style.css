@@ -1,0 +1,38 @@
+body {
+  font-family: "Open Sans Regular", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+/* .container {
+  padding: 0 48px;
+} */
+.def-padding {
+    padding: 0 48px;
+}
+p {
+  margin: 0;
+}
+.flex {
+  display: flex;
+}
+.gap-2 {
+  gap: 10px;
+}
+
+.gap-4 {
+  gap: 32px;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+.mt-4 {
+    margin: 1rem;
+}
+
+.icon {
+  width: 1rem;
+  height: 1rem;
+  margin-right: 10px
+}
+
